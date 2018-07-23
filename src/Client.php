@@ -25,8 +25,6 @@ namespace DocsLab\IPay88;
 /**
  * The iPay88 Online Payment Switching Gateway client.
  *
- * @todo Rename to Client.
- *
  * @author Maxime Gilbert (DocBu) <docbu@docslab.net>
  */
 class Client {

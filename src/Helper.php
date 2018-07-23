@@ -25,8 +25,6 @@ namespace DocsLab\IPay88;
 /**
  * The iPay88 Online Payment Switching Gateway helper.
  *
- * @todo Rename to Helper.
- *
  * @author Maxime Gilbert (DocBu) <docbu@docslab.net>
  */
 abstract class Helper {

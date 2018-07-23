@@ -26,8 +26,6 @@ namespace DocsLab\IPay88;
  * The iPay88 Online Payment Switching Gateway events thrown by the gateway
  * client.
  *
- * @todo Rename to Events.
- *
  * @see \DocsLab\IPay88\Client
  * @see \DocsLab\IPay88\EventInterface
  *
